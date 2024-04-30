@@ -1,0 +1,10 @@
+{
+  "name": "coffeemug",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "*",
+    "cypress-wait-until": "^3.0.1",
+    "typescript": "*"
+  }
+}
